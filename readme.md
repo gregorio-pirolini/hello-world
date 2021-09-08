@@ -1,5 +1,5 @@
 # hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+Gitチュートリアル用Hello Worldリポジトリ
+これは、https://www.w3schools.com のGit tutoialのためのサンプルリポジトリです。
 
-This repository is built step by step in the tutorial.# read me!!
+このリポジトリは、チュートリアルの中で段階的に構築されていきます。
